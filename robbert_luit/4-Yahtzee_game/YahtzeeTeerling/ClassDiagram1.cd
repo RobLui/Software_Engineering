@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YahtzeeTeerling.Program" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.ScoreBoardController">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAgAAAAAAAACAAAGAACAAAAAAAAA=</HashCode>
+      <FileName>ScoreBoardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.ScoreBoardModel">
+    <Position X="18.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAoAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScoreBoardModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.ScoreBoardView">
+    <Position X="15.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAQAACAAABAAAACAAAACAACAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ScoreBoardView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.TeerlingController">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAQAAAAAAAAgAQAAAAAAAAAAEAACQAAAAAAAA=</HashCode>
+      <FileName>TeerlingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.TeerlingModel">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAIAAAAIAAAACACAAAEAAAIAAAAAAAAgA=</HashCode>
+      <FileName>TeerlingModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.TeerlingView">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACQAAAAABACQAAADAAAAAAAAAAAAAEIAAAA=</HashCode>
+      <FileName>TeerlingView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.Yahtzee">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAACAAAAAAAACAQIACAAAIAAAACGAAAAABAAA=</HashCode>
+      <FileName>Yahtzee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.YahtzeeController">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAAAAAAgAAAAAAAAAAAAEAACAAAAAAAAA=</HashCode>
+      <FileName>YahtzeeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.YahtzeeModel">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAAgAAEAAAABAAAAAAAAAQAAAAAAAAAAAAIAAIAA=</HashCode>
+      <FileName>YahtzeeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.YahtzeeView">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAARAAAAACAAAAAAAACAAAACAAAAAAIAAAABAEAAAAA=</HashCode>
+      <FileName>YahtzeeView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.Properties.Resources" Collapsed="true">
+    <Position X="6.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YahtzeeTeerling.Properties.Settings" Collapsed="true">
+    <Position X="8" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
